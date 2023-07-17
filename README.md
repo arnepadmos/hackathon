@@ -29,3 +29,7 @@ Unlike classical hackathons, which result in (designs for) hardware and/or softw
 - Product security specialists
 - Policy makers
 - (this is a non-exhaustive list)
+
+## Outcome
+
+![Poster showing the outcome of the hackathon](poster.png)
